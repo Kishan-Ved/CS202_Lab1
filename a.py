@@ -1,3 +1,5 @@
+'''THis is a test file for STT Lab 1'''
+
 A = 2
 B = 3
 
@@ -22,8 +24,10 @@ if C == 0:
 for i in range(5):
     print(i)
 
-def f(A,B):
-    return A*B
+
+def f(a,b):
+    '''This is a function to multiply two numbers'''
+    return a*b
 
 D = f(A,B)
 
