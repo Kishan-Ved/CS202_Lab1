@@ -7,8 +7,6 @@ C = A+B
 
 # Now, we check the value of C
 
-# Some changes
-
 if C==5:
     print("C is 5")
 else:
