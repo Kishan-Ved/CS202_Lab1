@@ -5,6 +5,8 @@ c = a+b
 
 # Now, we check the value of c
 
+# Some changes
+
 if c==5:
     print("c is 5")
 else:
